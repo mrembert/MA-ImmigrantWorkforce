@@ -1,7 +1,7 @@
 # MA-ImmigrantWorkforce
 Analysis of the MA Immigrant Workforce using 2021 1yr ACS PUMS
 
-## Immigrant workforce
+## immigrant workforce.R
 Calculates the share of the MA workforce that are non-native born
 
 ## educational attainment.R
